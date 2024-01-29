@@ -4,3 +4,6 @@
 #### Test Markdown h4
 ##### Test Markdown h5
 ###### Test Markdown h6
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
