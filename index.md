@@ -7,3 +7,8 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` dart
+final myVar = "Hello, world!";
+```
